@@ -3,6 +3,7 @@ body{
   margin: 0px;
   padding-top: 60px;
   background-color: #F6F7FB;
+  background-image: url(https://static.cuisineaz.com/400x320/i99425-hamburger.jpg);
   display:flex;
   align-items: center;
   justify-content: center;
